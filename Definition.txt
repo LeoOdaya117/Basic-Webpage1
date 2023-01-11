@@ -1,0 +1,8 @@
+Title - title ng webpage
+ example: <title>Final Exam</title>
+nav - navigation
+ul - Unordered lists
+li - list items
+div - division or container for HTML elements
+class - class attribute specifies one or more classnames for an element.
+ example:  class="logo",   logo is the class name ginagamit yan para sa pag design sa css dun sa style.css na file.
